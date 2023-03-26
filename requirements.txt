@@ -3,3 +3,4 @@ streamlit
 streamlit_lottie
 requests
 streamlit_option_menu
+pandas
