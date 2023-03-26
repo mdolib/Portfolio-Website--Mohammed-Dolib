@@ -2,6 +2,8 @@ import streamlit as st
 from streamlit_lottie import st_lottie
 import requests
 import pandas as pd
+import numpy as np
+
 
 def content_home():
     def load_lottieurl(url):
