@@ -87,7 +87,7 @@ def projects():
         st.header('Al Ain Municiplity Customers Services')
         st.write("""Analyze reports for Al Ain city municipality customer services center data has been collected from different Integrated Management System (IMS). 
                 Data has been extracted and clean on SQL server manipulation extract, transform and load (ETL) heavy shifting and lifting lead to SQL server after clean data import to Power BI where visualization and magics has been done.""")
-        st.image('images\CSC-Portfalio.png')
+        st.image('images\CSC-Portfalio.PNG')
     
     with tab2:
         st.header('Banking Dashboard')
