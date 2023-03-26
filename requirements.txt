@@ -2,4 +2,4 @@ numpy
 streamlit
 streamlit_lottie
 requests
-option_menu
+streamlit_option_menu
