@@ -1,5 +1,5 @@
 numpy
 streamlit
-st_lottie
+streamlit_lottie
 requests
 option_menu
